@@ -6,8 +6,7 @@ Welcome to my little corner of GitHub. My main repo here has extensions (cogs) f
 
 <b></b>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vexed01&repo=Vex-Cogs&theme=dark&title_color=79ff97&text_color=DCDCDC">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Cog-Creators&repo=Red-DiscordBot&theme=dark&title_color=d93a7c">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vexed01&repo=Vex-Cogs&theme=dark&title_color=79ff97&text_color=DCDCDC"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cog-Creators&repo=Red-DiscordBot&theme=dark&title_color=d93a7c">
 
 <b></b>
 
