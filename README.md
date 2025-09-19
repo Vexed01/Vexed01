@@ -10,6 +10,4 @@ Welcome to my little corner of GitHub. My main repo here has extensions (cogs) f
 
 <b></b>
 
-As you can see I only really know Python:
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vexed01&theme=dark&title_color=79ff97">
